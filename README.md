@@ -5,11 +5,15 @@ This repository contains lecture materials from two presentations I delivered at
 ## Presentations
 
 ### 1. Discovered Policy Optimisation (DPO)
+> presented on 2025-03-07
+
 - Mirror Learning Framework: PPO paradox, drift functions, theoretical foundation
 - Meta-Learning Discovery: Evolution strategies, automatic algorithm discovery
 - DPO Formula: From open to closed-form formula, outperforms PPO
 
 ### 2. Group Relative Policy Optimisation (GRPO)
+> presented on 2025-05-16
+
 - GRPO vs PPO: Value model elimination, group-relative advantage
 - DeepSeekMath: Base model, continual pre-training, SFT, GRPO
 - DeepSeek-R1: Pure RL, GPT-o1 performance, mathematical reasoning
